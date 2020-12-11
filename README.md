@@ -1,6 +1,8 @@
 ## I'm codedarkmatter!
 
-- I’m currently working on passwordgenerator
+- I’m currently working on **passwordgenerator**
+- I'm always learning python, javascript, html, css, r, you name it.
+- This is my playground.
 
 <!--
 **codedarkmatter/codedarkmatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
